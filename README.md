@@ -137,4 +137,4 @@ Built by Jannetje van Leeuwen ([IQ Branding Solutions](https://iqbrandingsolutio
 
 Source material: HSA RAMS Guidance Document (Construction Safety Partnership, Ireland), HSA Interactive Template, S.I. No. 291 of 2013 Construction Regulations.
 
-Released under MIT licence. Use it, fork it, ship it. No warranty: a RAMS produced with this specialist still requires sign-off by a competent person in your organisation before it goes to a client or PSCS.
+Licence: see [LICENSE](LICENSE). Short version: read it, evaluate it, learn from it. Do not use it commercially, do not redistribute, do not fork as the basis of a competing tool. For other uses, ask. No warranty: a RAMS produced with this specialist still requires sign-off by a competent person in your organisation before it goes to a client or PSCS.
