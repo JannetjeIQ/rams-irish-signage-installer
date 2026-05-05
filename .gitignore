@@ -17,3 +17,11 @@ _*
 # Anything the user accidentally drops in that contains real client data
 **/draft-*.docx
 **/draft-*.pdf
+
+# Contractor-specific filled-in profiles must never reach the public repo.
+# The pattern catches IQ-your-contractor-profile.md, IQ-anything.md, and
+# any [contractor]-your-contractor-profile.md style file.
+IQ-*
+*-iq.md
+*-filled.md
+**/your-contractor-profile-*.md
