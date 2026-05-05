@@ -4,6 +4,26 @@
 
 If you leave placeholders in here, the specialist will refuse to draft until you complete it. That is intentional: it stops Claude inventing a company name, address, or insurance figure.
 
+## What is required vs recommended
+
+**Required before first use** (the specialist refuses to draft if these are not filled):
+
+- §1 Company identity
+- §2 Responsible person
+- §3 Insurance
+- §5 Job-tracking system
+- §6 Competency tracker
+
+**Recommended but not blocking** (the specialist will warn but proceed):
+
+- §4 Safety statement
+- §7 SDS library
+- §8 Standing crew
+- §9 Subcontracted install crews
+- §10 Standing exclusions (the two defaults, RECI and insurance height limit, always go on the cover even if §10 is empty)
+
+If you are doing a first-time setup, fill the five required sections, save, and start drafting. Come back to the recommended sections when you have the info.
+
 ---
 
 ## 1. Company identity
