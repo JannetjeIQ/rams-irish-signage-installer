@@ -1,0 +1,19 @@
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# Local notes / scratch (anything starting with _ is treated as personal scratch)
+_*
+
+# Anything the user accidentally drops in that contains real client data
+**/draft-*.docx
+**/draft-*.pdf
